@@ -11,7 +11,7 @@ api = twitter.Api(
 
 blocks = api.GetBlocks()
 
-header = "# chorume-as-a-service\nLista de gente e robô muito bosta no twitter\n---\n| Foto | Usuário | Seguidores | Seguindo | Criado em |\n| --- | --- | --- | --- | --- |\n"
+header = "# chorume-as-a-service\nO Twitter dificulta a exportação e importação de lista de contas bloqueadas, então eu fiz um script safadinho em python para gerar essa tabela abaixo.\n\nSão todos robôs ou gente extremamente reacionária ou odiosa, segundo critérios pessoais meus :)\n\n### Lista de gente e robô muito bosta no twitter\n\n| Foto | Usuário | Seguidores | Seguindo | Criado em |\n| --- | --- | --- | --- | --- |\n"
 
 list_file = open("../README.md", "w")
 

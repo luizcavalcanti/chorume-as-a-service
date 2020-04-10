@@ -1,6 +1,10 @@
 # chorume-as-a-service
-Lista de gente e robô muito bosta no twitter
----
+O Twitter dificulta a exportação e importação de lista de contas bloqueadas, então eu fiz um script safadinho em python para gerar essa tabela abaixo.
+
+São todos robôs ou gente extremamente reacionária ou odiosa, segundo critérios pessoais meus :)
+
+### Lista de gente e robô muito bosta no twitter
+
 | Foto | Usuário | Seguidores | Seguindo | Criado em |
 | --- | --- | --- | --- | --- |
 | ![alt text](http://pbs.twimg.com/profile_images/1045450038967771137/FZ3uqx1s_normal.jpg "foto do usuário") | [Marcelo calcagno](https://twitter.com/Mcalcagno2012) | 145 | 444 | 20/12/2016 |
@@ -12,14 +16,14 @@ Lista de gente e robô muito bosta no twitter
 | ![alt text](http://pbs.twimg.com/profile_images/1247609209849610241/ZjmhjbM5_normal.jpg "foto do usuário") | [Olati](https://twitter.com/Dorleam) | 3217 | 934 | 17/06/2010 |
 | ![alt text](http://pbs.twimg.com/profile_images/912027049270894594/nxXuWho0_normal.jpg "foto do usuário") | [Ana Claudia 👌🐸](https://twitter.com/theanaclaudia) | 1411 | 1830 | 13/08/2009 |
 | ![alt text](http://pbs.twimg.com/profile_images/645288703594766336/DhLpfqts_normal.jpg "foto do usuário") | [Júlio Oliveira](https://twitter.com/juliooolliveira) | 189 | 139 | 12/03/2011 |
-| ![alt text](http://pbs.twimg.com/profile_images/1239297511917006848/KfEQUmL7_normal.jpg "foto do usuário") | [🇧🇷 Alexandre 🇧🇷](https://twitter.com/ale_bsoares) | 3432 | 4505 | 16/06/2016 |
+| ![alt text](http://pbs.twimg.com/profile_images/1239297511917006848/KfEQUmL7_normal.jpg "foto do usuário") | [🇧🇷 Alexandre 🇧🇷](https://twitter.com/ale_bsoares) | 3433 | 4505 | 16/06/2016 |
 | ![alt text](http://pbs.twimg.com/profile_images/1245238619230613504/Fg5Bxcd0_normal.jpg "foto do usuário") | [🇮🇱🇧🇷🇪🇺](https://twitter.com/wilkson76072531) | 2 | 46 | 20/02/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1244731869213724672/mn98A1TI_normal.jpg "foto do usuário") | [Anderson⚫️⚪️⭐️S/A 🇯🇵](https://twitter.com/andersonncalice) | 623 | 832 | 08/04/2010 |
 | ![alt text](http://pbs.twimg.com/profile_images/1245403532255256578/vQtB7DWJ_normal.jpg "foto do usuário") | [Hank Rearden](https://twitter.com/HenryRearden15) | 36 | 352 | 01/04/2020 |
 | ![alt text](http://pbs.twimg.com/profile_images/982604924134612992/JES6PhRn_normal.jpg "foto do usuário") | [Carlinhos🇧🇷](https://twitter.com/C4rl1nh0562) | 149 | 188 | 14/07/2016 |
 | ![alt text](http://pbs.twimg.com/profile_images/1184144902956965888/s4352VLj_normal.jpg "foto do usuário") | [Me Tire Daqui](https://twitter.com/MeTireDaqui) | 696 | 756 | 06/11/2010 |
-| ![alt text](http://pbs.twimg.com/profile_images/1165750358813085701/0QD51HCQ_normal.jpg "foto do usuário") | [O Corvo](https://twitter.com/0C0RV0) | 90287 | 11465 | 14/03/2019 |
-| ![alt text](http://pbs.twimg.com/profile_images/1220698947355803655/L4nMb6dI_normal.jpg "foto do usuário") | [Thaynnara Moreira](https://twitter.com/ThaynnaraMorei2) | 43 | 84 | 11/01/2016 |
+| ![alt text](http://pbs.twimg.com/profile_images/1165750358813085701/0QD51HCQ_normal.jpg "foto do usuário") | [O Corvo](https://twitter.com/0C0RV0) | 90291 | 11465 | 14/03/2019 |
+| ![alt text](http://pbs.twimg.com/profile_images/1220698947355803655/L4nMb6dI_normal.jpg "foto do usuário") | [Thaynnara Moreira](https://twitter.com/ThaynnaraMorei2) | 42 | 84 | 11/01/2016 |
 | ![alt text](http://pbs.twimg.com/profile_images/1158123664358989824/qqHlsj3I_normal.jpg "foto do usuário") | [Figueredo](https://twitter.com/AdrianoFiguer16) | 276 | 379 | 25/09/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/1227950997311500288/locNSZnX_normal.jpg "foto do usuário") | [Claudio Sales](https://twitter.com/claudiosalesfer) | 300 | 912 | 27/05/2012 |
 | ![alt text](http://pbs.twimg.com/profile_images/1227795837373353984/86RazBUv_normal.jpg "foto do usuário") | [Marcos Pontes🇧🇷38🇧🇷](https://twitter.com/MarcosP15232835) | 1230 | 1281 | 05/08/2019 |
@@ -28,19 +32,19 @@ Lista de gente e robô muito bosta no twitter
 | ![alt text](http://pbs.twimg.com/profile_images/1243215073004457984/g5v1qrhq_normal.jpg "foto do usuário") | [Adolf Dohria](https://twitter.com/adolfdohrea) | 38 | 117 | 12/03/2020 |
 | ![alt text](http://pbs.twimg.com/profile_images/1246942457083899904/EO2kgNBY_normal.jpg "foto do usuário") | [Moth into Flame 🔥](https://twitter.com/miguel_cwb) | 9 | 56 | 15/03/2011 |
 | ![alt text](http://pbs.twimg.com/profile_images/1245763056476487681/ItLC727Z_normal.jpg "foto do usuário") | [Rodolfo](https://twitter.com/Renan79429816) | 44 | 0 | 08/08/2019 |
-| ![alt text](http://pbs.twimg.com/profile_images/1207735249096073217/8rkA1VhZ_normal.jpg "foto do usuário") | [Arthur Weintraub](https://twitter.com/ArthurWeint) | 295535 | 103 | 16/12/2018 |
+| ![alt text](http://pbs.twimg.com/profile_images/1207735249096073217/8rkA1VhZ_normal.jpg "foto do usuário") | [Arthur Weintraub](https://twitter.com/ArthurWeint) | 295574 | 103 | 16/12/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/1227193236260872192/wtwUi3pL_normal.jpg "foto do usuário") | [André Menezes](https://twitter.com/AndrMen16821795) | 3 | 266 | 16/04/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/1192820058151628801/VA-BAmsl_normal.jpg "foto do usuário") | [Vinicius Lazari](https://twitter.com/ViniciusLazari8) | 3818 | 4373 | 08/11/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1235390193068371969/I-FUmLnE_normal.jpg "foto do usuário") | [Jaque Luz](https://twitter.com/Jaqueli87692513) | 1035 | 984 | 10/06/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1192474742885928961/pHF4TlSH_normal.jpg "foto do usuário") | [Alex Reis](https://twitter.com/AlexRei35785975) | 3 | 119 | 07/11/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/707756439134203904/wdXXEIcL_normal.jpg "foto do usuário") | [001 Andre](https://twitter.com/oliveiraandreal) | 554 | 4966 | 02/06/2014 |
-| ![alt text](http://pbs.twimg.com/profile_images/1114522354141544453/psjie1zy_normal.jpg "foto do usuário") | [Antonio Carlos Cardoso](https://twitter.com/Antonio46684810) | 6795 | 6520 | 21/03/2019 |
+| ![alt text](http://pbs.twimg.com/profile_images/1114522354141544453/psjie1zy_normal.jpg "foto do usuário") | [Antonio Carlos Cardoso](https://twitter.com/Antonio46684810) | 6798 | 6520 | 21/03/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1238651819930288130/zzZL871W_normal.jpg "foto do usuário") | [CyborgNacional01](https://twitter.com/CNacional01) | 750 | 1261 | 04/12/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1132445814880722944/5agg0fnj_normal.jpg "foto do usuário") | [Gabriel Pinto](https://twitter.com/gabpintoo) | 194 | 2086 | 21/09/2016 |
 | ![alt text](http://pbs.twimg.com/profile_images/1029833089801961477/Qiei4bXz_normal.jpg "foto do usuário") | [Emilson Nunes Costa](https://twitter.com/EmilsonNunesCo2) | 671 | 2480 | 15/08/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/1237264406477713413/dSWk5bdU_normal.jpg "foto do usuário") | [Júlia Debochada 🍺](https://twitter.com/JliaAnd90009545) | 163 | 233 | 09/01/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1053081668159004672/lHAC0PIk_normal.jpg "foto do usuário") | [Assis PF](https://twitter.com/Assis_PF) | 2 | 142 | 02/10/2017 |
-| ![alt text](http://pbs.twimg.com/profile_images/1246236562150563842/gE5jq6vS_normal.jpg "foto do usuário") | [𝓐𝓷𝓰𝓮𝓵 𝓑𝓻𝓪𝓼𝓲𝓵 💕🇧🇷](https://twitter.com/PorTiMeu_BR) | 32767 | 17331 | 14/09/2018 |
+| ![alt text](http://pbs.twimg.com/profile_images/1246236562150563842/gE5jq6vS_normal.jpg "foto do usuário") | [𝓐𝓷𝓰𝓮𝓵 𝓑𝓻𝓪𝓼𝓲𝓵 💕🇧🇷](https://twitter.com/PorTiMeu_BR) | 32770 | 17331 | 14/09/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/1153754246413803521/skRkZ8fW_normal.jpg "foto do usuário") | [Tiago Gonçalves](https://twitter.com/TiagoGo45627664) | 25 | 231 | 23/07/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1246453894303166469/y064GdXL_normal.jpg "foto do usuário") | [Agápê Brasil](https://twitter.com/agapefpim) | 14383 | 14761 | 07/12/2009 |
 | ![alt text](http://pbs.twimg.com/profile_images/1243733058072829952/eMu5t0nB_normal.jpg "foto do usuário") | [🇧🇷Dinaldo Gomes 🇧🇷🇧🇷](https://twitter.com/GomesDinaldo) | 1124 | 1998 | 29/11/2018 |
@@ -55,15 +59,15 @@ Lista de gente e robô muito bosta no twitter
 | ![alt text](http://pbs.twimg.com/profile_images/1169684342207057921/_OhfM_eg_normal.jpg "foto do usuário") | [Felipe helon](https://twitter.com/HelonIsaias) | 95 | 385 | 27/08/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1233709962100125696/-PE9IzPZ_normal.jpg "foto do usuário") | [🇧🇷🇷🇸🇭🇷Dragan Dragutinovic](https://twitter.com/dragandragu) | 114 | 480 | 29/02/2020 |
 | ![alt text](http://pbs.twimg.com/profile_images/1193613144293330946/te7SbqWA_normal.jpg "foto do usuário") | [Escabroso](https://twitter.com/Escabroso_) | 9 | 60 | 11/10/2019 |
-| ![alt text](http://pbs.twimg.com/profile_images/1166419615028862976/hCLUmy5i_normal.jpg "foto do usuário") | [🇧🇷ADRI🇧🇷](https://twitter.com/ADRIANE35) | 5645 | 5751 | 03/12/2009 |
+| ![alt text](http://pbs.twimg.com/profile_images/1166419615028862976/hCLUmy5i_normal.jpg "foto do usuário") | [🇧🇷ADRI🇧🇷](https://twitter.com/ADRIANE35) | 5646 | 5751 | 03/12/2009 |
 | ![alt text](http://pbs.twimg.com/profile_images/1153303506272563201/oXAb2hl4_normal.jpg "foto do usuário") | [Lourdes Maria](https://twitter.com/Lourdes40431925) | 429 | 551 | 22/07/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1083676648761946113/hpfKEtFC_normal.jpg "foto do usuário") | [Márcio Ribeiro](https://twitter.com/maalelimas) | 169 | 314 | 25/12/2018 |
-| ![alt text](http://pbs.twimg.com/profile_images/1105615086775881728/puoqhajn_normal.jpg "foto do usuário") | [todavidaright](https://twitter.com/todavidaright) | 72 | 306 | 22/01/2015 |
+| ![alt text](http://pbs.twimg.com/profile_images/1105615086775881728/puoqhajn_normal.jpg "foto do usuário") | [todavidaright](https://twitter.com/todavidaright) | 72 | 307 | 22/01/2015 |
 | ![alt text](http://pbs.twimg.com/profile_images/1158053370097262593/1CiOZJfw_normal.jpg "foto do usuário") | [Mauro Fagundes](https://twitter.com/maurofagundess) | 17345 | 395 | 23/05/2019 |
-| ![alt text](http://pbs.twimg.com/profile_images/1247881620817719297/M1TmFzIc_normal.jpg "foto do usuário") | [Le orgulhosa da Direita🇧🇷](https://twitter.com/goulart_lenita) | 30448 | 9891 | 23/07/2017 |
+| ![alt text](http://pbs.twimg.com/profile_images/1247881620817719297/M1TmFzIc_normal.jpg "foto do usuário") | [Le orgulhosa da Direita🇧🇷](https://twitter.com/goulart_lenita) | 30452 | 9891 | 23/07/2017 |
 | ![alt text](http://pbs.twimg.com/profile_images/1246025674919297024/SUbfH9gr_normal.png "foto do usuário") | [Roderick Cavalcante ⚔️🦅](https://twitter.com/Roderick_Cvlcnt) | 99 | 34 | 17/11/2018 |
-| ![alt text](http://pbs.twimg.com/profile_images/1168629086564098048/Z3Wsone6_normal.jpg "foto do usuário") | [Isabelle Restani 👉🏻🇧🇷👍🏻🇧🇷💕🦚🦚](https://twitter.com/Isarestani) | 1869 | 2013 | 20/08/2009 |
-| ![alt text](http://pbs.twimg.com/profile_images/1208537802696200196/gSPeXmcU_normal.jpg "foto do usuário") | [Fabiana Barroso](https://twitter.com/fabifbbr) | 61751 | 724 | 19/08/2009 |
+| ![alt text](http://pbs.twimg.com/profile_images/1168629086564098048/Z3Wsone6_normal.jpg "foto do usuário") | [Isabelle Restani 👉🏻🇧🇷👍🏻🇧🇷💕🦚🦚](https://twitter.com/Isarestani) | 1869 | 2014 | 20/08/2009 |
+| ![alt text](http://pbs.twimg.com/profile_images/1208537802696200196/gSPeXmcU_normal.jpg "foto do usuário") | [Fabiana Barroso](https://twitter.com/fabifbbr) | 61776 | 724 | 19/08/2009 |
 | ![alt text](http://pbs.twimg.com/profile_images/1060655562805993472/8LClUNaf_normal.jpg "foto do usuário") | [Unknownuser  🇧🇷 🇮🇱 🇺🇲](https://twitter.com/phdigitos) | 215 | 1078 | 03/04/2009 |
 | ![alt text](http://pbs.twimg.com/profile_images/1239495273828814849/5ANGlbj8_normal.jpg "foto do usuário") | [Tô_de_olho_no_BR](https://twitter.com/TDeOlhoNoBr1) | 0 | 50 | 16/03/2020 |
 | ![alt text](http://pbs.twimg.com/profile_images/1234947009884409868/e2irO2FV_normal.jpg "foto do usuário") | [Bruno 🇧🇷🇧🇷](https://twitter.com/brunove15563373) | 170 | 260 | 06/03/2019 |
@@ -101,9 +105,9 @@ Lista de gente e robô muito bosta no twitter
 | ![alt text](http://pbs.twimg.com/profile_images/1214893771965550592/2rkRi3VP_normal.jpg "foto do usuário") | [NTC (MRV)](https://twitter.com/IagoAF17) | 327 | 418 | 04/05/2013 |
 | ![alt text](http://pbs.twimg.com/profile_images/1195830178003476480/D2CSwkQW_normal.jpg "foto do usuário") | [Adeir Pereira Marinh](https://twitter.com/adeir_marinh) | 1657 | 1882 | 17/10/2017 |
 | ![alt text](http://pbs.twimg.com/profile_images/1104119545508302848/liqlaZU5_normal.jpg "foto do usuário") | [𝐎𝐒𝐄𝐈𝐀𝐒 & 𝕄𝕒𝕣𝕖𝕤𝕚𝕒𝕤🌊🏄‍♂️](https://twitter.com/PradoOseias) | 1263 | 1480 | 17/09/2017 |
-| ![alt text](http://pbs.twimg.com/profile_images/880598334385291264/yR_q_5zM_normal.jpg "foto do usuário") | [Antonio Chalhub](https://twitter.com/ChalhubAntonio) | 668 | 659 | 30/06/2017 |
+| ![alt text](http://pbs.twimg.com/profile_images/880598334385291264/yR_q_5zM_normal.jpg "foto do usuário") | [Antonio Chalhub](https://twitter.com/ChalhubAntonio) | 669 | 661 | 30/06/2017 |
 | ![alt text](http://pbs.twimg.com/profile_images/1234541935999823873/4tSu874j_normal.jpg "foto do usuário") | [MCCampos](https://twitter.com/Mariado90423288) | 1366 | 1736 | 20/03/2019 |
-| ![alt text](http://pbs.twimg.com/profile_images/1002327972903350272/cl7J_XX__normal.jpg "foto do usuário") | [cardoso](https://twitter.com/Cardoso) | 72775 | 383 | 18/03/2007 |
+| ![alt text](http://pbs.twimg.com/profile_images/1002327972903350272/cl7J_XX__normal.jpg "foto do usuário") | [cardoso](https://twitter.com/Cardoso) | 72776 | 382 | 18/03/2007 |
 | ![alt text](http://pbs.twimg.com/profile_images/1122960446938648576/-vxgxm8i_normal.jpg "foto do usuário") | [Rose Martins](https://twitter.com/RoseMar79044400) | 951 | 1045 | 07/04/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1245780434312626176/k_C3Gja4_normal.jpg "foto do usuário") | [I'm Jota!](https://twitter.com/jotaefe2805) | 12635 | 5406 | 26/05/2010 |
 | ![alt text](http://pbs.twimg.com/profile_images/1190243830244823041/AKN_fTqr_normal.jpg "foto do usuário") | [japonazi](https://twitter.com/celso_matsuda) | 148 | 455 | 03/11/2009 |
@@ -115,7 +119,7 @@ Lista de gente e robô muito bosta no twitter
 | ![alt text](http://pbs.twimg.com/profile_images/1230914424887750659/ZC-eJpJP_normal.jpg "foto do usuário") | [Afonso MartinsSou1000%Bolso,seduvidanaosiga](https://twitter.com/AfonsoM55799317) | 1490 | 1821 | 04/04/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1182333333801459717/FeckThbv_normal.jpg "foto do usuário") | [Luís Fernando varges](https://twitter.com/vargesfernando) | 170 | 1932 | 14/12/2014 |
 | ![alt text](http://pbs.twimg.com/profile_images/1246166841480929283/UgBCmS2k_normal.jpg "foto do usuário") | [Italo](https://twitter.com/DemoraisItalo) | 17 | 113 | 23/09/2019 |
-| ![alt text](http://pbs.twimg.com/profile_images/1184556339592343552/jNirYmuX_normal.jpg "foto do usuário") | [RIBEIRO🇧🇷🇮🇱🇺🇸🇮🇹🇵🇱PARAQUEDISTA 26ºBI-PQDT](https://twitter.com/Wal_Patriota) | 4408 | 4367 | 04/08/2018 |
+| ![alt text](http://pbs.twimg.com/profile_images/1184556339592343552/jNirYmuX_normal.jpg "foto do usuário") | [RIBEIRO🇧🇷🇮🇱🇺🇸🇮🇹🇵🇱PARAQUEDISTA 26ºBI-PQDT](https://twitter.com/Wal_Patriota) | 4409 | 4367 | 04/08/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/1200180785808064522/NT1ewxhw_normal.jpg "foto do usuário") | [TMarin10](https://twitter.com/marinho_thiago) | 336 | 497 | 07/03/2019 |
 | ![alt text](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png "foto do usuário") | [IvoHM](https://twitter.com/IvoHM) | 3 | 64 | 07/02/2010 |
 | ![alt text](http://pbs.twimg.com/profile_images/1808502859/361245_3002_normal.jpg "foto do usuário") | [Andre L. T. Ramos](https://twitter.com/andreltr) | 50 | 77 | 24/03/2009 |
@@ -125,7 +129,7 @@ Lista de gente e robô muito bosta no twitter
 | ![alt text](http://pbs.twimg.com/profile_images/1223925339916849152/jk4XauDR_normal.jpg "foto do usuário") | [Jandir Rodrigues](https://twitter.com/JandirRodrigu19) | 197 | 231 | 30/05/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1228714006145314816/usFYE7e7_normal.jpg "foto do usuário") | [deiag73- ESQUERDA NÃO TEM VEZ E COMUNISTA MUITO -](https://twitter.com/deiag73) | 908 | 1983 | 18/06/2010 |
 | ![alt text](http://pbs.twimg.com/profile_images/1183595549062250496/QbB2HZq-_normal.jpg "foto do usuário") | [Diego Roger](https://twitter.com/diegowoodfx) | 48 | 415 | 11/04/2010 |
-| ![alt text](http://pbs.twimg.com/profile_images/1045138346597601281/aV0KV9IL_normal.jpg "foto do usuário") | [Henrique](https://twitter.com/henriolliveira) | 66258 | 499 | 30/05/2014 |
+| ![alt text](http://pbs.twimg.com/profile_images/1045138346597601281/aV0KV9IL_normal.jpg "foto do usuário") | [Henrique](https://twitter.com/henriolliveira) | 66265 | 499 | 30/05/2014 |
 | ![alt text](http://pbs.twimg.com/profile_images/1189505104824717313/wZmYfm5p_normal.jpg "foto do usuário") | [Cenoura Flamejante 👮‍♂️🐸👮‍♂️](https://twitter.com/cenouraemchamas) | 83 | 286 | 28/10/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1225126964132032515/V7hwJMlP_normal.jpg "foto do usuário") | [Ailton Jose Evangelista](https://twitter.com/Ailtonjoseevang) | 253 | 630 | 29/09/2013 |
 | ![alt text](http://pbs.twimg.com/profile_images/1229960231762976768/Uu9J-ksE_normal.jpg "foto do usuário") | [Edward Luz. Antropólogo & Consultor Parlamentar.](https://twitter.com/edwardluz) | 1163 | 1768 | 15/02/2009 |
@@ -141,7 +145,7 @@ Lista de gente e robô muito bosta no twitter
 | ![alt text](http://pbs.twimg.com/profile_images/1221684793039052801/Q66Ghw_L_normal.jpg "foto do usuário") | [Br3n0🔴⚫](https://twitter.com/BrenoAlmeidaBF) | 1 | 69 | 12/10/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1106400046663303169/W0VqrTKV_normal.jpg "foto do usuário") | [Luciana Carvalho ](https://twitter.com/Lu_M_C) | 54 | 212 | 28/07/2014 |
 | ![alt text](http://pbs.twimg.com/profile_images/1235685338766610433/dYKCoUiV_normal.jpg "foto do usuário") | [Paulo Silva](https://twitter.com/paulo_silva2017) | 2364 | 2307 | 29/10/2017 |
-| ![alt text](http://pbs.twimg.com/profile_images/1248059827416334339/UpXgtCjk_normal.jpg "foto do usuário") | [Sherlock - F.O.D👉 🇧🇷🇧🇷🇧🇷](https://twitter.com/xerloquis) | 4437 | 4436 | 20/06/2018 |
+| ![alt text](http://pbs.twimg.com/profile_images/1248059827416334339/UpXgtCjk_normal.jpg "foto do usuário") | [Sherlock - F.O.D👉 🇧🇷🇧🇷🇧🇷](https://twitter.com/xerloquis) | 4438 | 4437 | 20/06/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/1218930340967997440/vMZfUsp1_normal.jpg "foto do usuário") | [renan](https://twitter.com/oiflumpalumpa) | 22 | 45 | 18/01/2020 |
 | ![alt text](http://pbs.twimg.com/profile_images/1171246014575120384/CxAc5Gx2_normal.jpg "foto do usuário") | [Paulonail](https://twitter.com/paulonail) | 1956 | 3673 | 20/09/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/1247317016148656129/49HlFyeZ_normal.jpg "foto do usuário") | [Kleber Teixeira 🇧🇷◤✠◢🇧🇷](https://twitter.com/klebersef) | 1629 | 1767 | 17/07/2009 |
@@ -149,8 +153,8 @@ Lista de gente e robô muito bosta no twitter
 | ![alt text](http://pbs.twimg.com/profile_images/1238555767139115010/wxWDBnii_normal.jpg "foto do usuário") | [Mano Comum.](https://twitter.com/BSiegil) | 632 | 836 | 23/01/2020 |
 | ![alt text](http://pbs.twimg.com/profile_images/1224100136302739457/5MUOMGOP_normal.jpg "foto do usuário") | [Frank](https://twitter.com/jfrankrj) | 911 | 1024 | 31/03/2012 |
 | ![alt text](http://pbs.twimg.com/profile_images/1183742425501753344/ZxVaucag_normal.jpg "foto do usuário") | [Dan 💛💚](https://twitter.com/direitavolver38) | 2355 | 1214 | 20/09/2015 |
-| ![alt text](http://pbs.twimg.com/profile_images/378800000741241613/6533cf599bf0c09bc00f2f1081bd8813_normal.jpeg "foto do usuário") | [Gil Andrade](https://twitter.com/gil_andrade13) | 24 | 176 | 15/11/2013 |
-| ![alt text](http://pbs.twimg.com/profile_images/1187076510248849415/dM1bMgeS_normal.jpg "foto do usuário") | [Juliana Garcia](https://twitter.com/Juliana84259162) | 7851 | 7149 | 07/09/2019 |
+| ![alt text](http://pbs.twimg.com/profile_images/378800000741241613/6533cf599bf0c09bc00f2f1081bd8813_normal.jpeg "foto do usuário") | [Gil Andrade](https://twitter.com/gil_andrade13) | 24 | 175 | 15/11/2013 |
+| ![alt text](http://pbs.twimg.com/profile_images/1187076510248849415/dM1bMgeS_normal.jpg "foto do usuário") | [Juliana Garcia](https://twitter.com/Juliana84259162) | 7851 | 7151 | 07/09/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1227938833221738503/NfxmyEA8_normal.jpg "foto do usuário") | [Buch](https://twitter.com/spbuchatgmail) | 14 | 225 | 09/01/2020 |
 | ![alt text](http://pbs.twimg.com/profile_images/838691615019577345/C77tqrW7_normal.jpg "foto do usuário") | [Carlos Alberto](https://twitter.com/berken70) | 42 | 165 | 17/01/2014 |
 | ![alt text](http://pbs.twimg.com/profile_images/1222522711852953600/oEQAQfF-_normal.jpg "foto do usuário") | [valentina amplier](https://twitter.com/valentinaampli6) | 60 | 67 | 18/11/2016 |
@@ -180,33 +184,33 @@ Lista de gente e robô muito bosta no twitter
 | ![alt text](http://pbs.twimg.com/profile_images/1053400997282897921/NItNbWDF_normal.jpg "foto do usuário") | [Anderson M. G. 🇧🇷](https://twitter.com/goncaand) | 606 | 747 | 02/07/2014 |
 | ![alt text](http://pbs.twimg.com/profile_images/1226236304763097089/gVKq-hR0_normal.jpg "foto do usuário") | [Zoga Onnis 38 🇧🇷](https://twitter.com/zogaonnis) | 2520 | 1895 | 12/11/2010 |
 | ![alt text](http://pbs.twimg.com/profile_images/1168012378371448833/u1XQf_kf_normal.jpg "foto do usuário") | [Paula 🇧🇷](https://twitter.com/Paula47843711) | 303 | 552 | 02/04/2019 |
-| ![alt text](http://pbs.twimg.com/profile_images/714205937410699264/EM7QfJrG_normal.jpg "foto do usuário") | [🍋 Limone 🇧🇷](https://twitter.com/crovislimone2) | 875 | 1020 | 27/03/2016 |
+| ![alt text](http://pbs.twimg.com/profile_images/714205937410699264/EM7QfJrG_normal.jpg "foto do usuário") | [🍋 Limone 🇧🇷](https://twitter.com/crovislimone2) | 874 | 1019 | 27/03/2016 |
 | ![alt text](http://pbs.twimg.com/profile_images/1206877129213956096/foZaOihH_normal.jpg "foto do usuário") | [jhenrique](https://twitter.com/Jorgenac1969) | 136 | 191 | 01/04/2018 |
-| ![alt text](http://pbs.twimg.com/profile_images/1160397778100609024/4XmXCCBj_normal.jpg "foto do usuário") | [Zeca Francis (AB)🇧🇷🇵🇹🇮🇱🇺🇸](https://twitter.com/Zeca_Francis) | 236 | 475 | 08/08/2019 |
+| ![alt text](http://pbs.twimg.com/profile_images/1160397778100609024/4XmXCCBj_normal.jpg "foto do usuário") | [Zeca Francis (AB)🇧🇷🇵🇹🇮🇱🇺🇸](https://twitter.com/Zeca_Francis) | 236 | 476 | 08/08/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1170505848025755653/aWdUTl9N_normal.jpg "foto do usuário") | [Andrea 🇧🇷💚💛🇧🇷](https://twitter.com/Andrea_VixES_BR) | 1186 | 969 | 04/02/2017 |
 | ![alt text](http://pbs.twimg.com/profile_images/1244722690377818114/O2klLhzX_normal.jpg "foto do usuário") | [Pr.Paulo Braga M12 🇧🇷🇮🇱🇺🇸](https://twitter.com/PrPaulobraga) | 926 | 1313 | 07/01/2015 |
-| ![alt text](http://pbs.twimg.com/profile_images/1185588595547082753/F4MGXQEe_normal.jpg "foto do usuário") | [Salominions 💙](https://twitter.com/Salominions) | 3302 | 4643 | 02/06/2017 |
+| ![alt text](http://pbs.twimg.com/profile_images/1185588595547082753/F4MGXQEe_normal.jpg "foto do usuário") | [Salominions 💙](https://twitter.com/Salominions) | 3301 | 4643 | 02/06/2017 |
 | ![alt text](http://pbs.twimg.com/profile_images/1184307867563761664/giWIWWXP_normal.jpg "foto do usuário") | [Nadir4 🎓🔎🌐](https://twitter.com/Nadira87332227) | 3 | 31 | 16/10/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1118510319171788801/ioDcIFxL_normal.jpg "foto do usuário") | [Monya](https://twitter.com/oOo_Monya_oOo) | 62 | 310 | 17/04/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1247453377526730755/NQ1xtYbQ_normal.jpg "foto do usuário") | [Fernando Pradera](https://twitter.com/fpradera) | 1019 | 1847 | 21/06/2009 |
 | ![alt text](http://pbs.twimg.com/profile_images/1050283665811476480/cZH3yiyJ_normal.jpg "foto do usuário") | [JQueiroz](https://twitter.com/jluqueiroz) | 1735 | 1735 | 05/08/2017 |
 | ![alt text](http://pbs.twimg.com/profile_images/1045657047054905344/GRDWZLJR_normal.jpg "foto do usuário") | [Renato Vieira](https://twitter.com/Renato29211889) | 76 | 257 | 28/09/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/691594585626247168/ZtoZJsQG_normal.jpg "foto do usuário") | [tonny](https://twitter.com/tonny_coxa) | 20020 | 21018 | 18/06/2010 |
-| ![alt text](http://pbs.twimg.com/profile_images/1177346417133797377/6F1zFF9K_normal.jpg "foto do usuário") | [V. Raizenberg](https://twitter.com/KandyWassily) | 1036 | 608 | 26/03/2019 |
+| ![alt text](http://pbs.twimg.com/profile_images/1177346417133797377/6F1zFF9K_normal.jpg "foto do usuário") | [V. Raizenberg](https://twitter.com/KandyWassily) | 1038 | 608 | 26/03/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/987848564582813696/2ylkoGGe_normal.jpg "foto do usuário") | [Cristina Figueira](https://twitter.com/Cristin04908871) | 63 | 114 | 13/12/2012 |
-| ![alt text](http://pbs.twimg.com/profile_images/1162774810222632960/fQlujBvs_normal.jpg "foto do usuário") | [Osmar DIA 15/03 DIA PRA FICAR NA HISTÓRIA](https://twitter.com/ScarduelliOsmar) | 2230 | 3240 | 07/07/2019 |
+| ![alt text](http://pbs.twimg.com/profile_images/1162774810222632960/fQlujBvs_normal.jpg "foto do usuário") | [Osmar DIA 15/03 DIA PRA FICAR NA HISTÓRIA](https://twitter.com/ScarduelliOsmar) | 2233 | 3240 | 07/07/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1242498194891845632/IS73ATcW_normal.jpg "foto do usuário") | [votou bolsonaro = retardado](https://twitter.com/papacudefada) | 1 | 43 | 20/06/2010 |
 | ![alt text](http://pbs.twimg.com/profile_images/1184580127738515457/8Hv8KlAe_normal.jpg "foto do usuário") | [Alan Naicson 🇧🇷](https://twitter.com/AlanNaicson) | 85 | 547 | 12/02/2013 |
 | ![alt text](http://pbs.twimg.com/profile_images/638379352019894272/z8MgRlgs_normal.jpg "foto do usuário") | [Fabio](https://twitter.com/FabioLima76) | 110 | 296 | 21/08/2011 |
 | ![alt text](http://pbs.twimg.com/profile_images/470031024781803520/5X-hs4tA_normal.jpeg "foto do usuário") | [Fernando Carneiro](https://twitter.com/1fernandoreal) | 435 | 493 | 02/05/2014 |
 | ![alt text](http://pbs.twimg.com/profile_images/1061672581974110209/EEsY1dvg_normal.jpg "foto do usuário") | [Joice Araújo](https://twitter.com/JoiceArajo16) | 61 | 137 | 30/09/2018 |
-| ![alt text](http://pbs.twimg.com/profile_images/1241922644800348160/MWbx9zC2_normal.jpg "foto do usuário") | [Fernando Melo](https://twitter.com/visaomacro) | 94304 | 274 | 22/06/2009 |
+| ![alt text](http://pbs.twimg.com/profile_images/1241922644800348160/MWbx9zC2_normal.jpg "foto do usuário") | [Fernando Melo](https://twitter.com/visaomacro) | 94306 | 274 | 22/06/2009 |
 | ![alt text](http://pbs.twimg.com/profile_images/1223408639689601024/DXLCY8sf_normal.jpg "foto do usuário") | [Luciana-15/03 eu Vou!!!🇧🇷👊](https://twitter.com/Luciana64408371) | 676 | 713 | 18/09/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/1199471535758741504/107S4xyB_normal.jpg "foto do usuário") | [paulo](https://twitter.com/diversaumdanoet) | 16 | 39 | 14/07/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1245044967229263874/I9nffl-R_normal.png "foto do usuário") | [Seidlcloroquina+Azitromivann](https://twitter.com/SeidlVann) | 39 | 79 | 30/07/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1223339881268764672/ADZjfEND_normal.jpg "foto do usuário") | [Frank Rosenthal](https://twitter.com/swedish_salvo) | 20 | 177 | 04/05/2018 |
-| ![alt text](http://pbs.twimg.com/profile_images/1241768399342129153/Ffv8_W6T_normal.jpg "foto do usuário") | [\\C354R.exe](https://twitter.com/CesarNotFound) | 59 | 505 | 13/03/2019 |
-| ![alt text](http://pbs.twimg.com/profile_images/1227540225930530816/VnoLGUqp_normal.jpg "foto do usuário") | [Taxidermista CORONAVOUCHER Transmissor de Corona](https://twitter.com/TaxidermistaMJ) | 1739 | 1465 | 18/09/2018 |
+| ![alt text](http://pbs.twimg.com/profile_images/1241768399342129153/Ffv8_W6T_normal.jpg "foto do usuário") | [\\C354R.exe](https://twitter.com/CesarNotFound) | 59 | 506 | 13/03/2019 |
+| ![alt text](http://pbs.twimg.com/profile_images/1227540225930530816/VnoLGUqp_normal.jpg "foto do usuário") | [Taxidermista CORONAVOUCHER Transmissor de Corona](https://twitter.com/TaxidermistaMJ) | 1739 | 1466 | 18/09/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/1201578868483772417/4BS4kKHk_normal.jpg "foto do usuário") | [Ivan 🇧🇷](https://twitter.com/IvanBrasil79) | 18 | 100 | 26/09/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/1230492521207193600/YvEj4hEX_normal.jpg "foto do usuário") | [Pericles 🇧🇷🇺🇲🇮🇱🇹🇼](https://twitter.com/PERICLE54974122) | 240 | 263 | 13/02/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/1188920831520464896/zaW1jzZp_normal.jpg "foto do usuário") | [É pavê ou pá comê?](https://twitter.com/epaveoucome) | 772 | 1049 | 26/04/2017 |
@@ -242,14 +246,14 @@ Lista de gente e robô muito bosta no twitter
 | ![alt text](http://pbs.twimg.com/profile_images/1194671216856064003/_j9EzY8K_normal.jpg "foto do usuário") | [James🇧🇷](https://twitter.com/James_7RHCP) | 154 | 573 | 23/09/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/1149048501906628608/dLCaNXh7_normal.jpg "foto do usuário") | [Adriano Souza](https://twitter.com/Adriano72942983) | 6 | 112 | 29/06/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1082413805190168576/EM3wMRiv_normal.jpg "foto do usuário") | [Dilmares](https://twitter.com/Dilmares1) | 123 | 192 | 07/01/2019 |
-| ![alt text](http://pbs.twimg.com/profile_images/335036890/Pierre-Auguste-Renoir-Screensaver_1_normal.png "foto do usuário") | [🇧🇷Fatima M.B.🇧🇷](https://twitter.com/mfmbarr) | 20116 | 20162 | 27/07/2009 |
+| ![alt text](http://pbs.twimg.com/profile_images/335036890/Pierre-Auguste-Renoir-Screensaver_1_normal.png "foto do usuário") | [🇧🇷Fatima M.B.🇧🇷](https://twitter.com/mfmbarr) | 20120 | 20162 | 27/07/2009 |
 | ![alt text](http://pbs.twimg.com/profile_images/1120039032736632832/ru-w3SVP_normal.jpg "foto do usuário") | [Sérgio Rodolfo Moreira](https://twitter.com/SrgioRodolfoMo2) | 4876 | 4975 | 19/04/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1139577784513245184/UKzh3HEQ_normal.jpg "foto do usuário") | [Ana Gabriela](https://twitter.com/AnaGabr80951730) | 3322 | 4634 | 06/04/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1160538559121633280/JI8eiH3u_normal.jpg "foto do usuário") | [Francisco Assis](https://twitter.com/chicodoparana) | 4202 | 4011 | 16/03/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1166315809037312001/cKYzmymQ_normal.jpg "foto do usuário") | [KABULOZO🤙😋🤙](https://twitter.com/zeferorocha) | 575 | 863 | 08/07/2012 |
 | ![alt text](http://pbs.twimg.com/profile_images/1156055101422764032/GHa-y41D_normal.jpg "foto do usuário") | [🇧🇷Marcos Rosa🇦🇺](https://twitter.com/marcosrosaaus) | 2996 | 3334 | 07/08/2010 |
 | ![alt text](http://pbs.twimg.com/profile_images/1168623892585488384/TuCTkqP5_normal.jpg "foto do usuário") | [AnaM.](https://twitter.com/AnaMBolsonaro) | 4794 | 5112 | 09/08/2018 |
-| ![alt text](http://pbs.twimg.com/profile_images/1163216012596207616/rV2K88Y6_normal.jpg "foto do usuário") | [Arthur do Val - Mamaefalei](https://twitter.com/arthurmoledoval) | 496034 | 352 | 03/11/2015 |
+| ![alt text](http://pbs.twimg.com/profile_images/1163216012596207616/rV2K88Y6_normal.jpg "foto do usuário") | [Arthur do Val - Mamaefalei](https://twitter.com/arthurmoledoval) | 496041 | 352 | 03/11/2015 |
 | ![alt text](http://pbs.twimg.com/profile_images/1139586111477600257/mnRBUcSp_normal.jpg "foto do usuário") | [Petista fede muito](https://twitter.com/AnaBuen56544589) | 186 | 396 | 11/05/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/1243581747255795724/rWywBSQC_normal.jpg "foto do usuário") | [CHARLIE BROWN](https://twitter.com/flavioobom) | 1148 | 2340 | 06/11/2009 |
 | ![alt text](http://pbs.twimg.com/profile_images/1234935962020478977/B5vXM_TU_normal.jpg "foto do usuário") | [Jeffersonᶜʳᶠ🔴⚫](https://twitter.com/jjeffersonpb) | 510 | 3146 | 19/03/2014 |
@@ -259,22 +263,22 @@ Lista de gente e robô muito bosta no twitter
 | ![alt text](http://pbs.twimg.com/profile_images/1246868044158246913/Kka7Wu56_normal.jpg "foto do usuário") | [RAYANE 🌻](https://twitter.com/Rayane130614) | 104 | 355 | 01/10/2017 |
 | ![alt text](http://pbs.twimg.com/profile_images/1103409039604674573/vKlbaeXd_normal.jpg "foto do usuário") | [Felipe Martins](https://twitter.com/FelpMartinS96) | 225 | 670 | 17/12/2017 |
 | ![alt text](http://pbs.twimg.com/profile_images/1078337888906027008/dxuo2qO5_normal.jpg "foto do usuário") | [Débora Sousa](https://twitter.com/dradeborasousa) | 435 | 132 | 09/12/2018 |
-| ![alt text](http://pbs.twimg.com/profile_images/1191453154161889285/PypzUoNz_normal.jpg "foto do usuário") | [Ana](https://twitter.com/g_g_garci) | 39233 | 16291 | 13/11/2016 |
+| ![alt text](http://pbs.twimg.com/profile_images/1191453154161889285/PypzUoNz_normal.jpg "foto do usuário") | [Ana](https://twitter.com/g_g_garci) | 39229 | 16289 | 13/11/2016 |
 | ![alt text](http://pbs.twimg.com/profile_images/1237036162562306048/sSmJL1jo_normal.jpg "foto do usuário") | [Gloria Silvestre Cozza](https://twitter.com/gloriasilvestre) | 14604 | 14404 | 27/12/2010 |
 | ![alt text](http://pbs.twimg.com/profile_images/1114188129840390145/emjDnNwz_normal.jpg "foto do usuário") | [Rodrigo Vilas Boas](https://twitter.com/RodrigoVilasB13) | 1 | 58 | 20/08/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/1242678168047190021/V_i1BWWO_normal.jpg "foto do usuário") | [𝑪𝒂𝒓𝒎𝒆𝒏 𝒅𝒆 𝑨𝒏𝒅𝒓𝒂𝒅𝒆 3️⃣8️⃣ - 🔁](https://twitter.com/CarmendeAndrade) | 609 | 486 | 27/11/2010 |
 | ![alt text](http://pbs.twimg.com/profile_images/1248098962562842625/y8EMHggY_normal.jpg "foto do usuário") | [AlexBR 🇧🇷 🇺🇲 🇮🇱](https://twitter.com/AlexBRfour) | 16620 | 16214 | 12/08/2017 |
-| ![alt text](http://pbs.twimg.com/profile_images/1213223057499852800/s1HYcShU_normal.jpg "foto do usuário") | [Raquel Stasiaki](https://twitter.com/RaquelStasiaki) | 112155 | 78510 | 25/05/2018 |
+| ![alt text](http://pbs.twimg.com/profile_images/1213223057499852800/s1HYcShU_normal.jpg "foto do usuário") | [Raquel Stasiaki](https://twitter.com/RaquelStasiaki) | 112161 | 78511 | 25/05/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/796189485201551360/m41sJuep_normal.jpg "foto do usuário") | [Lauro Assuncao 17](https://twitter.com/LauroAssuncao) | 1781 | 2075 | 09/03/2012 |
 | ![alt text](http://pbs.twimg.com/profile_images/1163939014514229253/3kjsp9-b_normal.jpg "foto do usuário") | [Marco Antonio🇧🇷🇵🇹🇳🇱🇺🇸🇮🇱](https://twitter.com/marcos_AntCost) | 15500 | 16304 | 28/11/2018 |
-| ![alt text](http://pbs.twimg.com/profile_images/1246069779519045632/dF7z4TYW_normal.jpg "foto do usuário") | [oiluiz](https://twitter.com/oiluiz) | 111568 | 613 | 22/06/2012 |
+| ![alt text](http://pbs.twimg.com/profile_images/1246069779519045632/dF7z4TYW_normal.jpg "foto do usuário") | [oiluiz](https://twitter.com/oiluiz) | 111567 | 613 | 22/06/2012 |
 | ![alt text](http://pbs.twimg.com/profile_images/1247493106754301952/DjMPC2hx_normal.jpg "foto do usuário") | [severino🇧🇷🇧🇷🇺🇸🇺🇸🇮🇱🇮🇱 57.797.847](https://twitter.com/severinojlperei) | 624 | 3487 | 22/09/2009 |
 | ![alt text](http://pbs.twimg.com/profile_images/2481907019/r8oi7p7hwxo7krp6bqpr_normal.jpeg "foto do usuário") | [Gustavo Menezes](https://twitter.com/Gnaninho) | 430 | 899 | 17/07/2009 |
 | ![alt text](http://pbs.twimg.com/profile_images/1210637049189015552/qsieHmUE_normal.jpg "foto do usuário") | [TJF tudo pelo Flamengo](https://twitter.com/gilbert31865331) | 32 | 484 | 21/01/2015 |
 | ![alt text](http://pbs.twimg.com/profile_images/1242784468827586565/j28wMJ18_normal.jpg "foto do usuário") | [Ruffus](https://twitter.com/laurindobzk) | 86 | 754 | 02/07/2010 |
 | ![alt text](http://pbs.twimg.com/profile_images/1413056288/_ndice_normal.jpg "foto do usuário") | [Os 3 Poderes](https://twitter.com/Os3Podreres) | 2306 | 4065 | 25/06/2011 |
 | ![alt text](http://pbs.twimg.com/profile_images/1131220282465837061/8dsWsbu__normal.jpg "foto do usuário") | [Renata Braga🇧🇷🇧🇷🇧🇷](https://twitter.com/RenataBraga74) | 167 | 248 | 16/03/2019 |
-| ![alt text](http://pbs.twimg.com/profile_images/1245491230290653186/xpl7s2tO_normal.jpg "foto do usuário") | [Máirtin Mc](https://twitter.com/martmc88) | 849 | 1608 | 22/09/2016 |
+| ![alt text](http://pbs.twimg.com/profile_images/1245491230290653186/xpl7s2tO_normal.jpg "foto do usuário") | [Máirtin Mc](https://twitter.com/martmc88) | 848 | 1608 | 22/09/2016 |
 | ![alt text](http://pbs.twimg.com/profile_images/1188779595891429376/SD3zuBmi_normal.jpg "foto do usuário") | [Carvalho🇭🇰](https://twitter.com/1leonca) | 197 | 546 | 08/10/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/825421263564894210/tA-neqGN_normal.jpg "foto do usuário") | [Gaspa #dia15euvou 😎👉👉](https://twitter.com/gasplosion) | 252 | 1563 | 01/07/2009 |
 | ![alt text](http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png "foto do usuário") | [Jose Luiz Ferreira](https://twitter.com/ferreiraimbe1) | 1 | 50 | 22/08/2014 |
@@ -299,10 +303,10 @@ Lista de gente e robô muito bosta no twitter
 | ![alt text](http://pbs.twimg.com/profile_images/1220756625834881024/1hjvRl9r_normal.jpg "foto do usuário") | [RODRIGO CORRÊA](https://twitter.com/Rodrigo_Correaa) | 508 | 1070 | 19/08/2009 |
 | ![alt text](http://pbs.twimg.com/profile_images/1084563684125491200/CcxJQ5_s_normal.jpg "foto do usuário") | [Fernandinho  STZ](https://twitter.com/fernandinhoSTZ) | 341 | 838 | 10/07/2009 |
 | ![alt text](http://pbs.twimg.com/profile_images/1124850682597715969/vNCHDhZJ_normal.jpg "foto do usuário") | [Armas da Liberdade 🇺🇦](https://twitter.com/ArmasLiberdade) | 417 | 657 | 27/08/2018 |
-| ![alt text](http://pbs.twimg.com/profile_images/1245406756630605824/ZyXBn3su_normal.jpg "foto do usuário") | [GLOBO MATA MAIS QUE VÍRUS.](https://twitter.com/PeloFimDoPT1) | 7671 | 526 | 26/05/2014 |
+| ![alt text](http://pbs.twimg.com/profile_images/1245406756630605824/ZyXBn3su_normal.jpg "foto do usuário") | [GLOBO MATA MAIS QUE VÍRUS.](https://twitter.com/PeloFimDoPT1) | 7670 | 526 | 26/05/2014 |
 | ![alt text](http://pbs.twimg.com/profile_images/1131008739732021248/goMVgxnz_normal.png "foto do usuário") | [Tupiniquim do Sul](https://twitter.com/TupiniquimS) | 3652 | 595 | 16/12/2014 |
 | ![alt text](http://pbs.twimg.com/profile_images/1106143835149791234/Vzl1KZXz_normal.jpg "foto do usuário") | [A.R.S.](https://twitter.com/Ars62374351) | 189 | 756 | 09/01/2019 |
-| ![alt text](http://pbs.twimg.com/profile_images/1234550486944055298/LCzQkGD__normal.jpg "foto do usuário") | [Bolsonéas](https://twitter.com/Bolsoneas) | 145470 | 124 | 13/04/2017 |
+| ![alt text](http://pbs.twimg.com/profile_images/1234550486944055298/LCzQkGD__normal.jpg "foto do usuário") | [Bolsonéas](https://twitter.com/Bolsoneas) | 145482 | 124 | 13/04/2017 |
 | ![alt text](http://pbs.twimg.com/profile_images/1166452742585499649/gadNhHKn_normal.jpg "foto do usuário") | [fruta do conde](https://twitter.com/carlaatta) | 204 | 542 | 16/05/2014 |
 | ![alt text](http://pbs.twimg.com/profile_images/1194603317265088512/LyGHFVOb_normal.jpg "foto do usuário") | [╭⊱🌷⊱╯Zulєikα ❁╭⊱🌷⊱╯](https://twitter.com/_ZuleikaBrand_) | 3253 | 3116 | 21/10/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/423822588758880256/SsvVGe-W_normal.jpeg "foto do usuário") | [Renato ️🇧🇷 🇮🇹️ 🇺🇲️ 🇨🇦️ 🇳🇱️️ 🇩🇪️ 🇨🇭️](https://twitter.com/RenatoVix_) | 2719 | 2226 | 11/07/2009 |
@@ -316,8 +320,8 @@ Lista de gente e robô muito bosta no twitter
 | ![alt text](http://pbs.twimg.com/profile_images/1189744075915833345/247UZ8wA_normal.jpg "foto do usuário") | [Fe Zonzini](https://twitter.com/fe_zonzini) | 155 | 91 | 13/11/2015 |
 | ![alt text](http://pbs.twimg.com/profile_images/1207387010593411072/EvEbDr_v_normal.jpg "foto do usuário") | [Mari May 🇧🇷](https://twitter.com/MariMay77) | 4690 | 4390 | 25/06/2016 |
 | ![alt text](http://pbs.twimg.com/profile_images/1157612185318764544/yJllTWyP_normal.jpg "foto do usuário") | [Robson de Morais🇧🇷](https://twitter.com/MoraisRobsonS) | 1666 | 2431 | 18/11/2015 |
-| ![alt text](http://pbs.twimg.com/profile_images/1130353952770461696/xAWwo9eV_normal.jpg "foto do usuário") | [Dom Vito Andolini](https://twitter.com/Dom_Andolini) | 17648 | 1538 | 13/01/2018 |
-| ![alt text](http://pbs.twimg.com/profile_images/1238862720054804485/1Cwi_uPU_normal.jpg "foto do usuário") | [🇧🇷 Ale Lagares 🇧🇷 🅱️3⃣8⃣🤖🤖👍](https://twitter.com/alelagares) | 7288 | 7838 | 28/07/2009 |
+| ![alt text](http://pbs.twimg.com/profile_images/1130353952770461696/xAWwo9eV_normal.jpg "foto do usuário") | [Dom Vito Andolini](https://twitter.com/Dom_Andolini) | 17647 | 1538 | 13/01/2018 |
+| ![alt text](http://pbs.twimg.com/profile_images/1238862720054804485/1Cwi_uPU_normal.jpg "foto do usuário") | [🇧🇷 Ale Lagares 🇧🇷 🅱️3⃣8⃣🤖🤖👍](https://twitter.com/alelagares) | 7288 | 7837 | 28/07/2009 |
 | ![alt text](http://pbs.twimg.com/profile_images/1060458824035983360/u4yuGFHE_normal.jpg "foto do usuário") | [ℭ𝔬𝔫𝔰𝔢𝔯𝔳𝔞𝔡𝔬𝔯 🇧🇷](https://twitter.com/ConservadorBP) | 324 | 183 | 30/06/2010 |
 | ![alt text](http://pbs.twimg.com/profile_images/1184536148074549256/bElA1NVj_normal.jpg "foto do usuário") | [Danilo psico](https://twitter.com/Danilo33352771) | 37 | 74 | 09/10/2017 |
 | ![alt text](http://pbs.twimg.com/profile_images/1166722637705469959/E--0cqt1_normal.jpg "foto do usuário") | [Cy patriota♡♡BR17🔰](https://twitter.com/cypessoa22) | 176 | 389 | 20/06/2014 |
@@ -332,7 +336,7 @@ Lista de gente e robô muito bosta no twitter
 | ![alt text](http://pbs.twimg.com/profile_images/1218562315802595329/b3kmgqku_normal.jpg "foto do usuário") | [André RB](https://twitter.com/AndreRicBrasil) | 23212 | 6166 | 09/10/2009 |
 | ![alt text](http://pbs.twimg.com/profile_images/1102782546692194304/Qdc1Nh-a_normal.png "foto do usuário") | [Anderson Freitas](https://twitter.com/Anderso76840389) | 27 | 111 | 02/03/2019 |
 | ![alt text](http://pbs.twimg.com/profile_images/867343719984496641/CZblo_ye_normal.jpg "foto do usuário") | [👉👉membro: F.O.D e GDO Miliciano Golpista✌🏻](https://twitter.com/gfcaa) | 4696 | 5139 | 08/07/2009 |
-| ![alt text](http://pbs.twimg.com/profile_images/1224115624089137155/ETtsYCSh_normal.jpg "foto do usuário") | [Alessandra Terra ✨🙏🏻🇧🇷](https://twitter.com/AleTerraSouza38) | 2670 | 1567 | 18/10/2018 |
+| ![alt text](http://pbs.twimg.com/profile_images/1224115624089137155/ETtsYCSh_normal.jpg "foto do usuário") | [Alessandra Terra ✨🙏🏻🇧🇷](https://twitter.com/AleTerraSouza38) | 2672 | 1567 | 18/10/2018 |
 | ![alt text](http://pbs.twimg.com/profile_images/1211258378254798848/nluur8U4_normal.jpg "foto do usuário") | [🇧🇷Antonio Soave🇧🇷](https://twitter.com/morosoave) | 561 | 746 | 09/10/2016 |
 | ![alt text](http://pbs.twimg.com/profile_images/1068294883897737216/7kMkMybc_normal.jpg "foto do usuário") | [Sérgio Mota](https://twitter.com/Sergio18082013) | 89 | 194 | 18/08/2013 |
 | ![alt text](http://pbs.twimg.com/profile_images/1082815488869220353/Z8eCUCaH_normal.jpg "foto do usuário") | [Silvana Violi](https://twitter.com/Silvana07574917) | 576 | 753 | 18/09/2018 |
@@ -340,7 +344,7 @@ Lista de gente e robô muito bosta no twitter
 | ![alt text](http://pbs.twimg.com/profile_images/1060143773584445440/19dZ_nUI_normal.jpg "foto do usuário") | [Rozeli Borges Duarte](https://twitter.com/BorgesRozeli) | 0 | 72 | 12/07/2017 |
 | ![alt text](http://pbs.twimg.com/profile_images/612696192967782400/G6pij2Jz_normal.jpg "foto do usuário") | [Globe Underground](https://twitter.com/globeUndergroun) | 1084 | 508 | 21/06/2015 |
 | ![alt text](http://pbs.twimg.com/profile_images/520228129554456577/H4HCg2Pf_normal.jpeg "foto do usuário") | [elizio figueiredo](https://twitter.com/elizioenfase) | 1064 | 1215 | 06/07/2009 |
-| ![alt text](http://pbs.twimg.com/profile_images/888558155856318464/0ezeRmbj_normal.jpg "foto do usuário") | [J. Sepúlveda](https://twitter.com/radardamidia) | 89258 | 4423 | 23/04/2008 |
+| ![alt text](http://pbs.twimg.com/profile_images/888558155856318464/0ezeRmbj_normal.jpg "foto do usuário") | [J. Sepúlveda](https://twitter.com/radardamidia) | 89260 | 4423 | 23/04/2008 |
 | ![alt text](http://pbs.twimg.com/profile_images/1244374590543073287/itztakMl_normal.jpg "foto do usuário") | [Diogo Pires](https://twitter.com/Diogo_Pires_) | 101 | 436 | 25/07/2009 |
 | ![alt text](http://pbs.twimg.com/profile_images/1121876889860222978/O7AGtudr_normal.jpg "foto do usuário") | [𝓐𝓵𝓮𝓼𝓼𝓪𝓷𝓭𝓻𝓸 𝓒𝓮𝔃𝓪𝓻𝓲𝓸🇧🇷](https://twitter.com/cezarioale) | 3414 | 4843 | 09/10/2013 |
 | ![alt text](http://pbs.twimg.com/profile_images/908113225845297154/fP0bE6OC_normal.jpg "foto do usuário") | [Arrogante é o teu cu, eu sou é sincero](https://twitter.com/f_pedo) | 72 | 174 | 23/07/2015 |
@@ -372,12 +376,12 @@ Lista de gente e robô muito bosta no twitter
 | ![alt text](http://pbs.twimg.com/profile_images/1039569561778044928/vWDjMreR_normal.jpg "foto do usuário") | [Newton Junior](https://twitter.com/newtonsilvajun) | 31 | 256 | 06/09/2016 |
 | ![alt text](http://pbs.twimg.com/profile_images/1092422124013346817/HQmc38QD_normal.jpg "foto do usuário") | [André Casteliano](https://twitter.com/andrecasteliano) | 2050 | 3311 | 12/03/2008 |
 | ![alt text](http://pbs.twimg.com/profile_images/1192492536331489281/C9cIenCR_normal.jpg "foto do usuário") | [1° DE ABRIL, DIA DA IMPRENSA 💩](https://twitter.com/Rodrigo36890149) | 1469 | 1626 | 25/03/2015 |
-| ![alt text](http://pbs.twimg.com/profile_images/1183216515128188928/O3Wb9Xqb_normal.jpg "foto do usuário") | [Cristiana Menshova - Vírus Chinês!](https://twitter.com/CrisMenshova) | 57262 | 15670 | 14/10/2014 |
+| ![alt text](http://pbs.twimg.com/profile_images/1183216515128188928/O3Wb9Xqb_normal.jpg "foto do usuário") | [Cristiana Menshova - Vírus Chinês!](https://twitter.com/CrisMenshova) | 57265 | 15670 | 14/10/2014 |
 | ![alt text](http://pbs.twimg.com/profile_images/496029267931959296/9dc_XazJ_normal.jpeg "foto do usuário") | [𝐶𝑒𝑠𝑎𝑟 𝑀𝑒𝑛𝑑𝑜𝑛ç𝑎 🇧🇷](https://twitter.com/cmendoncasp1) | 4022 | 4271 | 03/08/2014 |
 | ![alt text](http://pbs.twimg.com/profile_images/1118167349234995207/eEjAiCsx_normal.jpg "foto do usuário") | [Rodrigo Carlos Feitosa](https://twitter.com/Rodriggocfs) | 30 | 176 | 24/09/2017 |
 | ![alt text](http://pbs.twimg.com/profile_images/1199292733753573377/4O8INVmC_normal.jpg "foto do usuário") | [Victor Didier Raoult 🇵🇱 🇺🇦 👉👉](https://twitter.com/vlbruiz) | 517 | 767 | 05/10/2014 |
 | ![alt text](http://pbs.twimg.com/profile_images/1070555544690352128/JEMHaZLr_normal.jpg "foto do usuário") | [Gastão SN](https://twitter.com/gastaosn) | 5198 | 5158 | 18/11/2016 |
-| ![alt text](http://pbs.twimg.com/profile_images/1236422285499777024/DFLbCQd0_normal.jpg "foto do usuário") | [Isabel Grol](https://twitter.com/belvangrol) | 4946 | 1576 | 31/07/2017 |
+| ![alt text](http://pbs.twimg.com/profile_images/1236422285499777024/DFLbCQd0_normal.jpg "foto do usuário") | [Isabel Grol](https://twitter.com/belvangrol) | 4947 | 1576 | 31/07/2017 |
 | ![alt text](http://pbs.twimg.com/profile_images/1162847568117846016/-uPBRxUq_normal.jpg "foto do usuário") | [🇬🇧 Saito Miyamoto 🏳‍🌈](https://twitter.com/NpdSaito) | 81 | 108 | 08/01/2013 |
 | ![alt text](http://pbs.twimg.com/profile_images/1189335816386088965/i4bybepg_normal.jpg "foto do usuário") | [Renan](https://twitter.com/renan_de) | 670 | 1297 | 20/02/2010 |
 | ![alt text](http://pbs.twimg.com/profile_images/649588141238697984/0Dt_ViEQ_normal.jpg "foto do usuário") | [Marcos Silva - gab.ai/MROBERTO2018](https://twitter.com/mroberto_2015) | 143 | 413 | 02/05/2010 |
@@ -411,4 +415,4 @@ Lista de gente e robô muito bosta no twitter
 | ![alt text](http://pbs.twimg.com/profile_images/1036293871897063424/aikUnJYJ_normal.jpg "foto do usuário") | [Natalino Vegh](https://twitter.com/NatalinoVegh) | 122 | 124 | 15/01/2015 |
 
 ---
-Lista exportada em: 10/04/2020 19:43:45
+Lista exportada em: 10/04/2020 20:03:08
