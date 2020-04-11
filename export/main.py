@@ -15,6 +15,14 @@ header_file = open("./header", "r")
 list_file.write(header_file.read())
 
 blocks = api.GetBlocks()
+
+list_file.write(f"({len(blocks) } contas bloqueadas)\n\n")
+
+list_file.write(
+    "| Usuário | Criado em | Razão (Seguidores/Seguindo) | Tweets |\n"
+    "| --- | --- | --- | --- |\n"
+)
+
 for user in blocks:
     user_image = f'![alt text]({user.profile_image_url} "foto do usuário")'
     user_url = f"https://twitter.com/{user.screen_name}"

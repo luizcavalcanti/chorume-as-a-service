@@ -1,0 +1,8 @@
+# chorume-as-a-service
+
+O Twitter dificulta a exportação e importação de lista de contas bloqueadas, então eu fiz um script safadinho em python para gerar essa tabela abaixo.
+
+Por enquanto ainda é muito trabalhoso bloquear um a um, mas vale muito a pena se livrar de gente desgraçada no Twitter :)
+
+### Lista de gente e robô muito bosta no twitter
+
