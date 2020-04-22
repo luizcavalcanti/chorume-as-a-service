@@ -16,7 +16,12 @@ list_file.write(header_file.read())
 
 blocks = api.GetBlocks()
 
+list_file.write(
+    f"\nLista exportada em: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}\n\n"
+)
+
 list_file.write(f"({len(blocks) } contas bloqueadas)\n\n")
+
 
 list_file.write(
     "| Usuário | Criado em | Razão (Seguidores/Seguindo) | Tweets |\n"
@@ -37,10 +42,6 @@ for user in blocks:
         f"| {follow_ratio} ({user.followers_count}/{user.friends_count}) "
         f"| {user.statuses_count} |\n"
     )
-
-list_file.write(
-    f"\n\nLista exportada em: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}"
-)
 
 list_file.flush()
 list_file.close()
