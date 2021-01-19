@@ -1,13 +1,13 @@
 .PHONY: help
 
 help:
-	@echo "available actions: deps, export, import"
+	@echo "available actions: deps, export, block"
 
 deps:
-	pip3 install -r requirements.txt
+	@pip3 install -r requirements.txt
 
 export:
-	python3 -m chorume export
+	@python3 -m chorume export
 
 block:
-	python3 -m chorume block
+	@python3 -m chorume block
