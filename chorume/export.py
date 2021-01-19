@@ -1,11 +1,13 @@
+import csv
 import os
-import twitter
 from datetime import datetime
 
-def export_markdown(blocks, file_name):
-    with open(file_name, 'w') as list_file:
+import twitter
 
-        header_file = open("./header", "r")
+
+def _export_markdown(blocks, file_name):
+    with open(file_name, 'w') as list_file:
+        header_file = open("templates/markdown_header", "r")
         list_file.write(header_file.read())
 
         list_file.write(f"\n\n")
@@ -33,12 +35,24 @@ def export_markdown(blocks, file_name):
             )
 
 
-api = twitter.Api(
-    consumer_key=os.environ["TWITTER_CONSUMER_KEY"],
-    consumer_secret=os.environ["TWITTER_CONSUMER_SECRET"],
-    access_token_key=os.environ["TWITTER_ACCESS_TOKEN"],
-    access_token_secret=os.environ["TWITTER_TOKEN_SECRET"],
-)
+def _export_simple_csv(blocks, file_name):
+    csv_columns = ['user_id', 'screen_name']
+    dict_data = [{'id': user.id, 'name': user.screen_name} for user in blocks]
+    with open(file_name, 'w') as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+        writer.writeheader()
+        for data in dict_data:
+            writer.writerow(data)
 
-blocks = api.GetBlocks()
-export_markdown(blocks, '../README.md')
+
+def export():
+    api = twitter.Api(
+        consumer_key=os.environ["TWITTER_CONSUMER_KEY"],
+        consumer_secret=os.environ["TWITTER_CONSUMER_SECRET"],
+        access_token_key=os.environ["TWITTER_ACCESS_TOKEN"],
+        access_token_secret=os.environ["TWITTER_TOKEN_SECRET"],
+    )
+    blocks = api.GetBlocks()
+
+    _export_markdown(blocks, 'README.md')
+    _export_simple_csv(blocks, 'blocks.csv')
