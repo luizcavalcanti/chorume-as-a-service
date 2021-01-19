@@ -1,8 +1,5 @@
 import csv
-import os
 from datetime import datetime
-
-import twitter
 
 
 def _export_markdown(blocks, file_name):
@@ -36,8 +33,15 @@ def _export_markdown(blocks, file_name):
 
 
 def _export_simple_csv(blocks, file_name):
-    csv_columns = ['user_id', 'screen_name']
-    dict_data = [{'id': user.id, 'name': user.screen_name} for user in blocks]
+    csv_columns = ['user_id', 'screen_name', 'user_image_url', 'followers', 'following']
+    dict_data = [{
+        'user_id': user.id,
+        'screen_name': user.screen_name,
+        'user_image_url': user.profile_image_url,
+        'followers': user.followers_count,
+        'following': user.friends_count
+    } for user in blocks]
+
     with open(file_name, 'w') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
         writer.writeheader()
@@ -45,14 +49,8 @@ def _export_simple_csv(blocks, file_name):
             writer.writerow(data)
 
 
-def export():
-    api = twitter.Api(
-        consumer_key=os.environ["TWITTER_CONSUMER_KEY"],
-        consumer_secret=os.environ["TWITTER_CONSUMER_SECRET"],
-        access_token_key=os.environ["TWITTER_ACCESS_TOKEN"],
-        access_token_secret=os.environ["TWITTER_TOKEN_SECRET"],
-    )
-    blocks = api.GetBlocks()
+def export_blocked_users(twitter_api):
+    blocks = twitter_api.GetBlocks()
 
     _export_markdown(blocks, 'README.md')
     _export_simple_csv(blocks, 'blocks.csv')
