@@ -4,6 +4,26 @@ O Twitter dificulta a exportação e importação de lista de contas bloqueadas,
 
 Por enquanto ainda é muito trabalhoso bloquear um a um, mas vale muito a pena se livrar de gente desgraçada no Twitter :)
 
+
+### Como rodar na minha máquina?
+
+você precisa configurar as seguintes variáveis de ambiente (é preciso gerar seus próprios valores em developer.twitter.com):
+
+```bash
+export TWITTER_CONSUMER_KEY=blablabla
+export TWITTER_CONSUMER_SECRET=blebleble
+export TWITTER_ACCESS_TOKEN=bliblibli
+export TWITTER_TOKEN_SECRET=blobloblo
+```
+
+Depois basta mandar um make:
+
+```bash
+make deps # instala as dependências
+make export # para criar um csv com seus blocks, além de atualizar este README.md
+make block # lê o blocks.csv e bloqueia os mesmos desgraçados na sua conta
+```
+
 ### Lista de gente desgraçada e robôs do twitter
 
 
